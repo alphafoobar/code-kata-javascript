@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 'use strict';
 
 module.exports.hashOne = (word, k) => Promise.reject(new Error('Not implemented!'));

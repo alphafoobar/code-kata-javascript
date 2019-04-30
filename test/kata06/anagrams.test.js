@@ -2,7 +2,7 @@
 
 const systemUnderTest = require('../../src/kata06/anagrams');
 
-test('test', () => {
+test.skip('test', () => {
     expect.assertions(1);
     return expect(systemUnderTest('test')).resolves.toEqual(-1);
 });
