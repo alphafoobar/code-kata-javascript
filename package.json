@@ -2,7 +2,7 @@
   "description": "JavaScript project to practise writing better JavaScript",
   "author": "developers@bravenewcoin.com",
   "devDependencies": {
-    "eslint": "5.0.1",
+    "eslint": "6.8.0",
     "jest": "25.1.0",
     "merge": "1.2.1"
   },
